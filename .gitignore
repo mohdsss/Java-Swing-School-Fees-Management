@@ -1,0 +1,23 @@
+# NetBeans Project Files & Build Outputs
+/target/
+/bin/
+/nbproject/private/
+/nbproject/Makefile-*
+/nbproject/Package-*
+build/
+dist/
+*.class
+
+# IDE Configs
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
