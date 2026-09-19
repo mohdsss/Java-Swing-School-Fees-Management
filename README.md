@@ -159,8 +159,3 @@ The MySQL Connector/J driver dependency included in Maven configuration:
 2. **Run in NetBeans**:
    - Open NetBeans IDE ➔ `File` ➔ `Open Project` ➔ Select `school1`.
    - Right-click `student.java` (or `com.mycompany.school1.student`) ➔ **Run File** (`Shift + F6`).
-
----
-
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
