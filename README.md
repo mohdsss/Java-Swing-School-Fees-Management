@@ -162,19 +162,5 @@ The MySQL Connector/J driver dependency included in Maven configuration:
 
 ---
 
-## 📤 Upload to GitHub Steps
-
-Run these commands in your project folder terminal:
-```bash
-git init
-git add .
-git commit -m "Initial commit: school1 NetBeans project with SQL Joins, JDBC Driver and Swing GUI"
-git branch -M main
-git remote add origin https://github.com/YOUR_GITHUB_USERNAME/school1.git
-git push -u origin main
-```
-
----
-
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
